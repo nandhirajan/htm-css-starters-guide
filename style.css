@@ -1,0 +1,28 @@
+.box1 {
+    background-color: yellow;
+    width: 600px;
+    height: 400px;
+}
+
+.box2 {
+    background-color: pink;
+    width: 400px;
+    height: 300px;
+}
+
+.box3 {
+    background-color:blueviolet;
+    width: 200px;
+    height: 300px;
+}    
+
+.box4 {
+    background-color:blueviolet;
+    width: 200px;
+    height: 100px;
+}                 
+
+.text {
+    color: slategray;
+    font-size: 30;
+}
